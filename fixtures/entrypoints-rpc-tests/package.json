@@ -8,7 +8,7 @@
 	"devDependencies": {
 		"@cloudflare/workers-tsconfig": "workspace:*",
 		"ts-dedent": "^2.2.0",
-		"undici": "^5.28.4",
+		"undici": "^6.23.0",
 		"wrangler": "workspace:*"
 	},
 	"volta": {
