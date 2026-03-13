@@ -105,8 +105,8 @@ importers:
         specifier: ^4.20240620.0
         version: 4.20240620.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -117,8 +117,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -135,8 +135,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -150,8 +150,8 @@ importers:
         specifier: ^2.2.0
         version: 2.2.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -165,8 +165,8 @@ importers:
         specifier: ^4.20240620.0
         version: 4.20240620.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -183,8 +183,8 @@ importers:
         specifier: ^8.2.2
         version: 8.2.2
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -198,8 +198,8 @@ importers:
         specifier: ^4.20240620.0
         version: 4.20240620.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -213,8 +213,8 @@ importers:
         specifier: ^4.20240620.0
         version: 4.20240620.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -229,8 +229,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -250,8 +250,8 @@ importers:
         specifier: ^7.1.0
         version: 7.1.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
 
   fixtures/isomorphic-random-example: {}
 
@@ -297,8 +297,8 @@ importers:
         specifier: ^4.20240620.0
         version: 4.20240620.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -321,8 +321,8 @@ importers:
         specifier: ^1.1.1
         version: 1.1.1
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -333,8 +333,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -348,8 +348,8 @@ importers:
         specifier: ^4.20240620.0
         version: 4.20240620.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -370,8 +370,8 @@ importers:
         specifier: workspace:*
         version: link:../pages-plugin-example
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -382,8 +382,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -394,8 +394,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -409,8 +409,8 @@ importers:
         specifier: ^4.20240620.0
         version: 4.20240620.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -440,8 +440,8 @@ importers:
         specifier: workspace:*
         version: link:../pages-plugin-example
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -455,8 +455,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/miniflare
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -470,8 +470,8 @@ importers:
         specifier: ^4.20240620.0
         version: 4.20240620.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -482,8 +482,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -494,8 +494,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -506,8 +506,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -518,8 +518,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -530,8 +530,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -542,8 +542,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -569,8 +569,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -588,8 +588,8 @@ importers:
         specifier: ^8.2.2
         version: 8.2.2
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -663,8 +663,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -710,8 +710,8 @@ importers:
         specifier: ^5.0.1
         version: 5.0.1
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
 
   packages/create-cloudflare:
     devDependencies:
@@ -821,11 +821,11 @@ importers:
         specifier: ^0.22.0
         version: 0.22.0
       semver:
-        specifier: ^7.5.1
-        version: 7.5.1
+        specifier: ^7.5.2
+        version: 7.7.4
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       vite-tsconfig-paths:
         specifier: ^4.0.8
         version: 4.2.0(typescript@5.5.2)(vite@5.0.12(@types/node@20.8.3))
@@ -888,7 +888,7 @@ importers:
         version: 8.49.0
       eslint-config-turbo:
         specifier: latest
-        version: 2.0.6(eslint@8.49.0)
+        version: 2.8.17(eslint@8.49.0)(turbo@1.10.14)
       eslint-plugin-import:
         specifier: 2.26.x
         version: 2.26.0(@typescript-eslint/parser@6.10.0(eslint@8.49.0)(typescript@5.5.2))(eslint@8.49.0)
@@ -988,8 +988,8 @@ importers:
         specifier: ^1.1.0
         version: 1.1.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       workerd:
         specifier: 1.20240701.0
         version: 1.20240701.0
@@ -1058,8 +1058,8 @@ importers:
         specifier: ^8.2.2
         version: 8.2.2
       devalue:
-        specifier: ^4.3.0
-        version: 4.3.2
+        specifier: ^5.6.4
+        version: 5.6.4
       devtools-protocol:
         specifier: ^0.0.1182435
         version: 0.0.1182435
@@ -1134,8 +1134,8 @@ importers:
   packages/playground-preview-worker:
     dependencies:
       hono:
-        specifier: ^3.12.11
-        version: 3.12.11
+        specifier: ^4.12.7
+        version: 4.12.7
       zod:
         specifier: ^3.22.3
         version: 3.22.3
@@ -1162,8 +1162,8 @@ importers:
         specifier: ^3.3.1
         version: 3.3.1
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       wrangler:
         specifier: workspace:*
         version: link:../wrangler
@@ -1227,10 +1227,10 @@ importers:
     dependencies:
       '@hono/zod-validator':
         specifier: ^0.1.8
-        version: 0.1.8(hono@3.12.11)(zod@3.22.3)
+        version: 0.1.8(hono@4.12.7)(zod@3.22.3)
       hono:
-        specifier: ^3.12.11
-        version: 3.12.11
+        specifier: ^4.12.7
+        version: 4.12.7
       zod:
         specifier: ^3.22.3
         version: 3.22.3
@@ -1251,8 +1251,8 @@ importers:
         specifier: ^1.2.3
         version: 1.2.3
       devalue:
-        specifier: ^4.3.0
-        version: 4.3.2
+        specifier: ^5.6.4
+        version: 5.6.4
       esbuild:
         specifier: 0.17.19
         version: 0.17.19
@@ -1260,8 +1260,8 @@ importers:
         specifier: workspace:*
         version: link:../miniflare
       semver:
-        specifier: ^7.5.1
-        version: 7.5.4
+        specifier: ^7.5.2
+        version: 7.7.4
       wrangler:
         specifier: workspace:*
         version: link:../wrangler
@@ -1303,8 +1303,8 @@ importers:
         specifier: ^5.5.2
         version: 5.5.2
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       vitest:
         specifier: 1.5.0
         version: 1.5.0(@types/node@20.8.3)(@vitest/ui@1.6.0(vitest@1.6.0))
@@ -1378,8 +1378,8 @@ importers:
         specifier: ^0.4.1
         version: 0.4.1
       hono:
-        specifier: ^3.12.11
-        version: 3.12.11
+        specifier: ^4.12.7
+        version: 4.12.7
       lz-string:
         specifier: ^1.5.0
         version: 1.5.0
@@ -1451,8 +1451,8 @@ importers:
         specifier: ^3.12.8
         version: 3.12.10
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       vite-plugin-rewrite-all:
         specifier: ^1.0.1
         version: 1.0.1(vite@5.0.12(@types/node@20.12.12))
@@ -1713,8 +1713,8 @@ importers:
         specifier: ^3.0.0
         version: 3.0.0
       minimatch:
-        specifier: ^5.1.0
-        version: 5.1.0
+        specifier: ^5.1.8
+        version: 5.1.9
       mock-socket:
         specifier: ^9.3.1
         version: 9.3.1
@@ -1779,8 +1779,8 @@ importers:
         specifier: ^1.5.0
         version: 1.5.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
       update-check:
         specifier: ^1.5.4
         version: 1.5.4
@@ -1833,8 +1833,8 @@ importers:
         specifier: ^2.2.0
         version: 2.2.0
       undici:
-        specifier: ^5.28.4
-        version: 5.28.4
+        specifier: ^6.24.0
+        version: 6.24.0
 
 packages:
 
@@ -1873,6 +1873,7 @@ packages:
   '@azure/core-http@3.0.4':
     resolution: {integrity: sha512-Fok9VVhMdxAFOtqiiAtg74fL0UJkt0z3D+ouUUxcRLzZNBioPRAMJFVxiWoJljYpXsRi4GDQHzQHDc9AiYaIUQ==}
     engines: {node: '>=14.0.0'}
+    deprecated: This package is no longer supported. Please migrate to use @azure/core-rest-pipeline
 
   '@azure/core-lro@2.5.4':
     resolution: {integrity: sha512-3GJiMVH7/10bulzOKGrrLeG/uCBH/9VtxqaMcB9lIqAeamI/xYQSHJL/KcsLDuH+yTjYpro/u6D/MuRe4dN70Q==}
@@ -2425,12 +2426,15 @@ packages:
 
   '@esbuild-kit/cjs-loader@2.4.4':
     resolution: {integrity: sha512-NfsJX4PdzhwSkfJukczyUiZGc7zNNWZcEAyqeISpDnn0PTfzMJR1aR8xAIPskBejIxBJbIgCCMzbaYa9SXepIg==}
+    deprecated: 'Merged into tsx: https://tsx.is'
 
   '@esbuild-kit/core-utils@3.3.2':
     resolution: {integrity: sha512-sPRAnw9CdSsRmEtnsl2WXWdyquogVpB3yZ3dgwJfe8zrOzTsV7cJvmwrKVa+0ma5BoiGJ+BoqkMvawbayKUsqQ==}
+    deprecated: 'Merged into tsx: https://tsx.is'
 
   '@esbuild-kit/esm-loader@2.6.5':
     resolution: {integrity: sha512-FxEMIkJKnodyA1OaCUoEvbYRkoZlLZ4d/eXFu9Fh8CbBBgP5EmZxrfTRyN0qpXZ4vOvqnE5YdRdcrmUUXuU+dA==}
+    deprecated: 'Merged into tsx: https://tsx.is'
 
   '@esbuild-plugins/node-globals-polyfill@0.2.3':
     resolution: {integrity: sha512-r3MIryXDeXDOZh7ih1l/yE9ZLORCd5e8vWg02azWRGj5SPTuoh69A2AIyn0Z31V/kHBfZ4HgWJ+OK3GTTwLmnw==}
@@ -3024,30 +3028,37 @@ packages:
   '@miniflare/cache@2.14.2':
     resolution: {integrity: sha512-XH218Y2jxSOfxG8EyuprBKhI/Fn6xLrb9A39niJBlzpiKXqr8skl/sy/sUL5tfvqEbEnqDagGne8zEcjM+1fBg==}
     engines: {node: '>=16.13'}
+    deprecated: Miniflare v2 is no longer supported. Please upgrade to Miniflare v4
 
   '@miniflare/core@2.14.2':
     resolution: {integrity: sha512-n/smm5ZTg7ilGM4fxO7Gxhbe573oc8Za06M3b2fO+lPWqF6NJcEKdCC+sJntVFbn3Cbbd2G1ChISmugPfmlCkQ==}
     engines: {node: '>=16.13'}
+    deprecated: Miniflare v2 is no longer supported. Please upgrade to Miniflare v4
 
   '@miniflare/html-rewriter@2.14.2':
     resolution: {integrity: sha512-tu0kd9bj38uZ04loHb3sMI8kzUzZPgPOAJEdS9zmdSPh0uOkjCDf/TEkKsDdv2OFysyb0DRsIrwhPqCTIrPf1Q==}
     engines: {node: '>=16.13'}
+    deprecated: Miniflare v2 is no longer supported. Please upgrade to Miniflare v4
 
   '@miniflare/queues@2.14.2':
     resolution: {integrity: sha512-OylkRs4lOWKvGnX+Azab3nx+1qwC87M36/hkgAU1RRvVDCOxOrYLvNLUczFfgmgMBwpYsmmW8YOIASlI3p4Qgw==}
     engines: {node: '>=16.7'}
+    deprecated: Miniflare v2 is no longer supported. Please upgrade to Miniflare v4
 
   '@miniflare/shared@2.14.2':
     resolution: {integrity: sha512-dDnYIztz10zDQjaFJ8Gy9UaaBWZkw3NyhFdpX6tAeyPA/2lGvkftc42MYmNi8s5ljqkZAtKgWAJnSf2K75NCJw==}
     engines: {node: '>=16.13'}
+    deprecated: Miniflare v2 is no longer supported. Please upgrade to Miniflare v4
 
   '@miniflare/storage-memory@2.14.2':
     resolution: {integrity: sha512-9Wtz9mayHIY0LDsfpMGx+/sfKCq3eAQJzYY+ju1tTEaKR0sVAuO51wu0wbyldsjj9OcBcd2X32iPbIa7KcSZQQ==}
     engines: {node: '>=16.13'}
+    deprecated: Miniflare v2 is no longer supported. Please upgrade to Miniflare v4
 
   '@miniflare/watcher@2.14.2':
     resolution: {integrity: sha512-/TL0np4uYDl+6MdseDApZmDdlJ6Y7AY5iDY0TvUQJG9nyBoCjX6w0Zn4SiKDwO6660rPtSqZ5c7HzbPhGb5vsA==}
     engines: {node: '>=16.13'}
+    deprecated: Miniflare v2 is no longer supported. Please upgrade to Miniflare v4
 
   '@mswjs/cookies@1.1.0':
     resolution: {integrity: sha512-0ZcCVQxifZmhwNBoQIrystCb+2sWBY2Zw8lpfJBPCHGCA/HWqehITeCRVIv4VMy8MPlaHo2w2pTHFV2pFfqKPw==}
@@ -4103,6 +4114,7 @@ packages:
   basic-ftp@5.0.3:
     resolution: {integrity: sha512-QHX8HLlncOLpy54mh+k/sWIFd0ThmRqwe9ZjELybGZK+tZ8rUb9VO0saKJUROTbE+KhzDUT7xziGpGrW8Kmd+g==}
     engines: {node: '>=10.0.0'}
+    deprecated: Security vulnerability fixed in 5.2.0, please upgrade
 
   before-after-hook@2.2.3:
     resolution: {integrity: sha512-NzUnlZexiaH/46WDhANlyR2bXRopNg4F/zuSA3OpZnllCUgRaOF2znDioDWrmbNVsuZk6l9pMquQB38cfBZwkQ==}
@@ -4143,6 +4155,7 @@ packages:
 
   boolean@3.2.0:
     resolution: {integrity: sha512-d0II/GO9uf9lfUHH2BQsjxzRJZBdsjgsBiW4BvhWk/3qoKwQFjIDVN19PfX8F2D/r9PCMTtLWjYVCFrpeYUzsw==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   bottleneck@2.19.5:
     resolution: {integrity: sha512-VHiNCbI1lKdl44tGrhNfU3lup0Tj/ZBMJB5/2ZbNXRCPuRCO7ed2mgcK4r17y+KB2EfuYuRaVlwNbAeaWGSpbw==}
@@ -4154,8 +4167,14 @@ packages:
   brace-expansion@1.1.11:
     resolution: {integrity: sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA==}
 
+  brace-expansion@1.1.12:
+    resolution: {integrity: sha512-9T9UjW3r0UW5c1Q7GTwllptXwhvYmEzFhzMfZ9H7FQWt+uZePjZPjBP/W1ZEyZ1twGWom5/56TF4lPcqjnDHcg==}
+
   brace-expansion@2.0.1:
     resolution: {integrity: sha512-XnAIvQ8eM+kC6aULx6wuQiwVsnzsi9d3WxzV3FpWTGA19F621kwdbsAcFKXgKUHZWsy+mY6iL1sHTxWEFCytDA==}
+
+  brace-expansion@2.0.2:
+    resolution: {integrity: sha512-Jt0vHyM+jmUBqojB7E1NIYadt0vI0Qxjxd2TErW94wDz+E2LAm5vKMXXwg6ZZBTHPuUlDgQHKXvjGBdfcF1ZDQ==}
 
   braces@3.0.2:
     resolution: {integrity: sha512-b8um+L1RzM3WDSzvhm6gIz1yfTbBt6YTlcEKAvsmqCZZFw46z626lVj9j1yEPW33H5H+lBQpZMP1k8l+78Ha0A==}
@@ -4776,8 +4795,8 @@ packages:
     resolution: {integrity: sha512-TLz+x/vEXm/Y7P7wn1EJFNLxYpUD4TgMosxY6fAVJUnJMbupHBOncxyWUG9OpTaH9EBD7uFI5LfEgmMOc54DsA==}
     engines: {node: '>=8'}
 
-  devalue@4.3.2:
-    resolution: {integrity: sha512-KqFl6pOgOW+Y6wJgu80rHpo2/3H07vr8ntR9rkkFIRETewbf5GaYYcakYfiKz89K+sLsuPkQIZaXDMjUObZwWg==}
+  devalue@5.6.4:
+    resolution: {integrity: sha512-Gp6rDldRsFh/7XuouDbxMH3Mx8GMCcgzIb1pDTvNyn8pZGQ22u+Wa+lGV9dQCltFQ7uVw0MhRyb8XDskNFOReA==}
 
   devtools-protocol@0.0.1182435:
     resolution: {integrity: sha512-EmlkWb62wSbQNE1gRZZsi4KZYRaF5Skpp183LhRU7+sadKR06O1dHCjZmFSEG6Kv7P6S/UYLxcY3NlYwqKM99w==}
@@ -4975,10 +4994,11 @@ packages:
     peerDependencies:
       eslint: '>=7.0.0'
 
-  eslint-config-turbo@2.0.6:
-    resolution: {integrity: sha512-PkRjFnZUZWPcrYT4Xoi5OWOUtnn6xVGh88I6TsayiH4AQZuLs/MDmzfJRK+PiWIrI7Q7sbsVEQP+nUyyRE3uAw==}
+  eslint-config-turbo@2.8.17:
+    resolution: {integrity: sha512-sLjl8LT+NHy825rWW5W5whiJDh2mncf+i1RMgw52mioSy+1kithfKpVsZ68Ah/4nnE2rhGQGlrhCZXcmWM/duw==}
     peerDependencies:
       eslint: '>6.6.0'
+      turbo: '>2.0.0'
 
   eslint-import-resolver-node@0.3.7:
     resolution: {integrity: sha512-gozW2blMLJCeFpBwugLTGyvVjNoeo1knonXAcatC6bjPBZitotxdWf7Gimr25N4c0AAOo4eOUfaG82IJPDpqCA==}
@@ -5055,10 +5075,11 @@ packages:
     peerDependencies:
       eslint: ^3 || ^4 || ^5 || ^6 || ^7 || ^8
 
-  eslint-plugin-turbo@2.0.6:
-    resolution: {integrity: sha512-yGnpMvyBxI09ZrF5bGpaniBz57MiExTCsRnNxP+JnbMFD+xU3jG3ukRzehVol8LYNdC/G7E4HoH+x7OEpoSGAQ==}
+  eslint-plugin-turbo@2.8.17:
+    resolution: {integrity: sha512-ueZdnMyqZ6Q8dntbG98Ylyu6dqYt3MgoRELKGfDQDhPmwtxWwtimas0BDx8x/Ex4nnfg1pvr9HKxew/rHdvHIw==}
     peerDependencies:
       eslint: '>6.6.0'
+      turbo: '>2.0.0'
 
   eslint-plugin-unused-imports@3.0.0:
     resolution: {integrity: sha512-sduiswLJfZHeeBJ+MQaG+xYzSWdRXoSw61DpU13mzWumCkR0ufD0HmO4kdNokjrkluMHpj/7PJeN35pgbhW3kw==}
@@ -5093,11 +5114,13 @@ packages:
   eslint@8.49.0:
     resolution: {integrity: sha512-jw03ENfm6VJI0jA9U+8H5zfl5b+FvuU3YYvZRdZHOlU2ggJkxrlkJH4HcDrZpj6YwD8kuYqvQM8LyesoazrSOQ==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
+    deprecated: This version is no longer supported. Please see https://eslint.org/version-support for other options.
     hasBin: true
 
   eslint@8.57.0:
     resolution: {integrity: sha512-dZ6+mexnaTIbSBZWgou51U6OmzIhYM2VcNdtiTtI7qPNZm35Akpr0f6vtw3w1Kmn5PYo+tZVfh13WrhpS6oLqQ==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
+    deprecated: This version is no longer supported. Please see https://eslint.org/version-support for other options.
     hasBin: true
 
   espree@9.6.1:
@@ -5452,16 +5475,17 @@ packages:
   glob@10.3.10:
     resolution: {integrity: sha512-fa46+tv1Ak0UPK1TOy/pZrIybNNt4HCv7SDzwyfiOZkvZLEbjsZkJBPtDHVshZjbecAoAGSC20MjLDG/qr679g==}
     engines: {node: '>=16 || 14 >=14.17'}
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
     hasBin: true
 
   glob@7.2.3:
     resolution: {integrity: sha512-nFR0zLpU2YCaRxwoCJvL6UvCH2JFyFVIvwTLsIf21AuHlMskA1hhTdk+LlYJtOlYt9v6dvszD2BGRqBL+iQK9Q==}
-    deprecated: Glob versions prior to v9 are no longer supported
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
 
   glob@8.0.3:
     resolution: {integrity: sha512-ull455NHSHI/Y1FqGaaYFaLGkNMMJbavMrEGFXG/PGrg6y7sutWHUHrz6gy6WEBH6akM1M414dWKCNs+IhKdiQ==}
     engines: {node: '>=12'}
-    deprecated: Glob versions prior to v9 are no longer supported
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
 
   globals@11.12.0:
     resolution: {integrity: sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA==}
@@ -5579,9 +5603,9 @@ packages:
   hex2dec@1.1.2:
     resolution: {integrity: sha512-Yu+q/XWr2fFQ11tHxPq4p4EiNkb2y+lAacJNhAdRXVfRIcDH6gi7htWFnnlIzvqHMHoWeIsfXlNAjZInpAOJDA==}
 
-  hono@3.12.11:
-    resolution: {integrity: sha512-LSpxVgIMR3UzyFiXZaPvqBUGqyOKG0LMZqgMn2RXz9f+YAdkHSfFQQX0dtU72fPm5GnEMh5AYXs0ek5NYgMOmA==}
-    engines: {node: '>=16.0.0'}
+  hono@4.12.7:
+    resolution: {integrity: sha512-jq9l1DM0zVIvsm3lv9Nw9nlJnMNPOcAtsbsgiUhWcFzPE99Gvo6yRTlszSLLYacMeQ6quHD6hMfId8crVHvexw==}
+    engines: {node: '>=16.9.0'}
 
   hosted-git-info@2.8.9:
     resolution: {integrity: sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==}
@@ -6164,6 +6188,7 @@ packages:
 
   lodash.get@4.4.2:
     resolution: {integrity: sha512-z+Uw/vLuy6gQe8cfaFWD7p0wVv8fJl3mbzXh33RS+0oW2wvUqiRXiQ69gLWSLpgB5/6sU+r6BlQR0MBILadqTQ==}
+    deprecated: This package is deprecated. Use the optional chaining (?.) operator instead.
 
   lodash.isarguments@3.1.0:
     resolution: {integrity: sha512-chi4NHZlZqZD18a0imDHnZPrDeBbTtVN7GXMwuGdRH9qotxAjYs3aVLKc7zNOG9eddR5Ksd8rvFEBc9SsggPpg==}
@@ -6173,6 +6198,7 @@ packages:
 
   lodash.isequal@4.5.0:
     resolution: {integrity: sha512-pDo3lu8Jhfjqls6GkMgpahsF9kCyayhgykjyLMNFTKWrpVdAQtYyB4muAMWozBB4ig/dtWAmsMxLEI8wuz+DYQ==}
+    deprecated: This package is deprecated. Use require('node:util').isDeepStrictEqual instead.
 
   lodash.isplainobject@3.2.0:
     resolution: {integrity: sha512-P4wZnho5curNqeEq/x292Pb57e1v+woR7DJ84DURelKB46lby8aDEGVobSaYtzHdQBWQrJSdxcCwjlGOvvdIyg==}
@@ -6233,9 +6259,8 @@ packages:
     resolution: {integrity: sha512-ozCC6gdQ+glXOQsveKD0YsDy8DSQFjDTz4zyzEHNV5+JP5D62LmfDZ6o1cycFx9ouG940M5dE8C8CTewdj2YWQ==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
 
-  lru-cache@10.1.0:
-    resolution: {integrity: sha512-/1clY/ui8CzjKFyjdvwPWJUYKiFVXG2I2cY0ssG7h4+hwk+XOIX7ZSG9Q7TW8TW3Kp3BUSqgFWBLgL4PJ+Blag==}
-    engines: {node: 14 || >=16.14}
+  lru-cache@10.4.3:
+    resolution: {integrity: sha512-JNAzZcXrCt42VGLuYz0zfAzDfAvJWW6AfYlDBQyDV5DClI2m5sAmK+OIO7s59XfsRsWHp02jAJrRadPRGTt6SQ==}
 
   lru-cache@4.1.5:
     resolution: {integrity: sha512-sWZlbEP2OsHNkXrMl5GYk/jKk70MBng6UU4YI/qGDYbgf6YbP4EvmqISbXCoJiRKs+1bSpFHVgQxvJ17F2li5g==}
@@ -6385,16 +6410,19 @@ packages:
   minimatch@3.1.2:
     resolution: {integrity: sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==}
 
-  minimatch@5.1.0:
-    resolution: {integrity: sha512-9TPBGGak4nHfGZsPBohm9AWg6NoT7QTCehS3BIJABslyZbzxfV78QM2Y6+i741OPZIafFAaiiEMh5OyIrJPgtg==}
-    engines: {node: '>=10'}
+  minimatch@3.1.5:
+    resolution: {integrity: sha512-VgjWUsnnT6n+NUk6eZq77zeFdpW2LWDzP6zFGrCbHXiYNul5Dzqk2HHQ5uFH2DNW5Xbp8+jVzaeNt94ssEEl4w==}
 
-  minimatch@5.1.1:
-    resolution: {integrity: sha512-362NP+zlprccbEt/SkxKfRMHnNY85V74mVnpUpNyr3F35covl09Kec7/sEFLt3RA4oXmewtoaanoIf67SE5Y5g==}
+  minimatch@5.1.9:
+    resolution: {integrity: sha512-7o1wEA2RyMP7Iu7GNba9vc0RWWGACJOCZBJX2GJWip0ikV+wcOsgVuY9uE8CPiyQhkGFSlhuSkZPavN7u1c2Fw==}
     engines: {node: '>=10'}
 
   minimatch@9.0.1:
     resolution: {integrity: sha512-0jWhJpD/MdhPXwPuiRkCbfYfSKp2qnn2eOc279qI7f+osl/l+prKSrvhg157zSYvx/1nmgn2NqdT6k2Z7zSH9w==}
+    engines: {node: '>=16 || 14 >=14.17'}
+
+  minimatch@9.0.9:
+    resolution: {integrity: sha512-OBwBN9AL4dqmETlpS2zasx+vTeWclWzkblfZk7KTA5j3jeOONz/tRCnZomUyvNg83wL5Zv9Ss6HMJXAgL8R2Yg==}
     engines: {node: '>=16 || 14 >=14.17'}
 
   minimist-options@4.1.0:
@@ -7013,6 +7041,7 @@ packages:
   prebuild-install@7.1.2:
     resolution: {integrity: sha512-UnNke3IQb6sgarcZIDU3gbMeTp/9SSU1DAIkil7PrqG1vZlBtY5msYccSKSHDqa3hNg436IXK+SNImReuA1wEQ==}
     engines: {node: '>=10'}
+    deprecated: No longer maintained. Please contact the author of the relevant native addon; alternatives are available.
     hasBin: true
 
   preferred-pm@3.0.3:
@@ -7280,6 +7309,7 @@ packages:
 
   realistic-structured-clone@1.0.1:
     resolution: {integrity: sha512-UnQGgXdxTg+vwonhBz6VvfNFeqn/DUk0ntL/rSrN1mBOR261ZzLP3LQAFSBfIytyZYn4yue/64pZ7aN0x/RpiQ==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   recast@0.22.0:
     resolution: {integrity: sha512-5AAx+mujtXijsEavc5lWXBPQqrM4+Dl5qNH96N2aNeuJFUzpiiToKPsxQD/zAIJHspz7zz0maX0PCtCTFVlixQ==}
@@ -7493,21 +7523,21 @@ packages:
   semver-compare@1.0.0:
     resolution: {integrity: sha512-YM3/ITh2MJ5MtzaM429anh+x2jiLVjqILF4m4oyQB18W7Ggea7BfqdH/wGMK7dDiMghv/6WG7znWMwUDzJiXow==}
 
-  semver@5.7.1:
-    resolution: {integrity: sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==}
+  semver@5.7.2:
+    resolution: {integrity: sha512-cBznnQ9KjJqU67B52RMC65CMarK2600WFnbkcaiwWq3xy/5haFJlshgnpjovMVJ+Hff49d8GEn0b87C5pDQ10g==}
     hasBin: true
 
   semver@6.3.1:
     resolution: {integrity: sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==}
     hasBin: true
 
-  semver@7.5.1:
-    resolution: {integrity: sha512-Wvss5ivl8TMRZXXESstBA4uR5iXgEN/VC5/sOcuXdVLzcdkz4HWetIoRfG5gb5X+ij/G9rw9YoGn3QoQ8OCSpw==}
+  semver@7.5.4:
+    resolution: {integrity: sha512-1bCSESV6Pv+i21Hvpxp3Dx+pSD8lIPt8uVjRrxAUt/nbswYc+tK6Y2btiULjd4+fnq15PX+nqQDC7Oft7WkwcA==}
     engines: {node: '>=10'}
     hasBin: true
 
-  semver@7.5.4:
-    resolution: {integrity: sha512-1bCSESV6Pv+i21Hvpxp3Dx+pSD8lIPt8uVjRrxAUt/nbswYc+tK6Y2btiULjd4+fnq15PX+nqQDC7Oft7WkwcA==}
+  semver@7.7.4:
+    resolution: {integrity: sha512-vFKC2IEtQnVhpT78h1Yp8wzwrf8CM+MzKMHGJZfBtzhZNycRFnXsHk6E5TxIkkMsgNS7mdX3AGB7x2QM2di4lA==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -7861,6 +7891,7 @@ packages:
   tar@6.1.13:
     resolution: {integrity: sha512-jdIBIN6LTIe2jqzay/2vtYLlBHa3JF42ot3h1dW8Q0PaAG4v8rm0cvpVePtau5C6OKXGGcgO9q2AMNSWxiLqKw==}
     engines: {node: '>=10'}
+    deprecated: Old versions of tar are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
 
   temp-dir@3.0.0:
     resolution: {integrity: sha512-nHc6S/bwIilKHNRgK/3jlhDoIHcp45YgyiwcAk46Tr0LfEqGBVpmiAyuiuxeVE44m3mXnEeVhaipLOEWmH+Njw==}
@@ -8161,9 +8192,13 @@ packages:
     resolution: {integrity: sha512-wh1pHJHnUeQV5Xa8/kyQhO7WFa8M34l026L5P/+2TYiakvGy5Rdc8jWZVyG7ieht/0WgJLEd3kcU5gKx+6GC8w==}
     engines: {node: '>=14.0'}
 
-  undici@5.28.4:
-    resolution: {integrity: sha512-72RFADWFqKmUb2hmmvNODKL3p9hcB6Gt2DOQMis1SEBaV6a4MH8soBvzg+95CYhCKPFedut2JY9bMfrDl9D23g==}
+  undici@5.29.0:
+    resolution: {integrity: sha512-raqeBD6NQK4SkWhQzeYKd1KmIG6dllBOTt55Rmkt4HtI9mwdWtJljnrXjAFUBLTSN67HWrOIZ3EPF4kjUw80Bg==}
     engines: {node: '>=14.0'}
+
+  undici@6.24.0:
+    resolution: {integrity: sha512-lVLNosgqo5EkGqh5XUDhGfsMSoO8K0BAN0TyJLvwNRSl4xWGZlCVYsAIpa/OpA3TvmnM01GWcoKmc3ZWo5wKKA==}
+    engines: {node: '>=18.17'}
 
   unenv-nightly@1.10.0-1717606461.a117952:
     resolution: {integrity: sha512-u3TfBX02WzbHTpaEfWEKwDijDSFAHcgXkayUZ+MVDrjhLFvgAJzFGTSTmwlEhwWi2exyRQey23ah9wELMM6etg==}
@@ -8658,7 +8693,7 @@ snapshots:
   '@actions/http-client@2.2.0':
     dependencies:
       tunnel: 0.0.6
-      undici: 5.28.4
+      undici: 5.29.0
 
   '@ampproject/remapping@2.2.0':
     dependencies:
@@ -9057,7 +9092,7 @@ snapshots:
       outdent: 0.5.0
       prettier: 2.7.1
       resolve-from: 5.0.0
-      semver: 7.5.4
+      semver: 7.7.4
 
   '@changesets/assemble-release-plan@6.0.0':
     dependencies:
@@ -9066,7 +9101,7 @@ snapshots:
       '@changesets/get-dependents-graph': 2.0.0
       '@changesets/types': 6.0.0
       '@manypkg/get-packages': 1.1.3
-      semver: 7.5.4
+      semver: 7.7.4
 
   '@changesets/changelog-git@0.2.0':
     dependencies:
@@ -9110,7 +9145,7 @@ snapshots:
       p-limit: 2.3.0
       preferred-pm: 3.0.3
       resolve-from: 5.0.0
-      semver: 7.5.4
+      semver: 7.7.4
       spawndamnit: 2.0.0
       term-size: 2.2.1
       tty-table: 4.2.3
@@ -9135,7 +9170,7 @@ snapshots:
       '@manypkg/get-packages': 1.1.3
       chalk: 2.4.2
       fs-extra: 7.0.1
-      semver: 7.5.4
+      semver: 7.7.4
 
   '@changesets/get-github-info@0.6.0(encoding@0.1.13)':
     dependencies:
@@ -9745,7 +9780,7 @@ snapshots:
       ignore: 5.3.1
       import-fresh: 3.3.0
       js-yaml: 4.1.0
-      minimatch: 3.1.2
+      minimatch: 3.1.5
       strip-json-comments: 3.1.1
     transitivePeerDependencies:
       - supports-color
@@ -9759,7 +9794,7 @@ snapshots:
       ignore: 5.3.1
       import-fresh: 3.3.0
       js-yaml: 4.1.0
-      minimatch: 3.1.2
+      minimatch: 3.1.5
       strip-json-comments: 3.1.1
     transitivePeerDependencies:
       - supports-color
@@ -9770,16 +9805,16 @@ snapshots:
 
   '@fastify/busboy@2.1.1': {}
 
-  '@hono/zod-validator@0.1.8(hono@3.12.11)(zod@3.22.3)':
+  '@hono/zod-validator@0.1.8(hono@4.12.7)(zod@3.22.3)':
     dependencies:
-      hono: 3.12.11
+      hono: 4.12.7
       zod: 3.22.3
 
   '@humanwhocodes/config-array@0.11.11':
     dependencies:
       '@humanwhocodes/object-schema': 1.2.1
       debug: 4.3.5(supports-color@9.2.2)
-      minimatch: 3.1.2
+      minimatch: 3.1.5
     transitivePeerDependencies:
       - supports-color
 
@@ -9787,7 +9822,7 @@ snapshots:
     dependencies:
       '@humanwhocodes/object-schema': 2.0.3
       debug: 4.3.5(supports-color@9.2.2)
-      minimatch: 3.1.2
+      minimatch: 3.1.5
     transitivePeerDependencies:
       - supports-color
 
@@ -9805,7 +9840,7 @@ snapshots:
       '@babel/traverse': 7.24.5
       '@babel/types': 7.24.5
       prettier: 3.2.5
-      semver: 7.5.4
+      semver: 7.7.4
     optionalDependencies:
       '@vue/compiler-sfc': 3.3.4
     transitivePeerDependencies:
@@ -9952,7 +9987,7 @@ snapshots:
       nopt: 5.0.0
       npmlog: 5.0.1
       rimraf: 3.0.2
-      semver: 7.5.4
+      semver: 7.7.4
       tar: 6.1.13
     transitivePeerDependencies:
       - encoding
@@ -10561,7 +10596,7 @@ snapshots:
       commander: 10.0.1
       fs-extra: 10.1.0
       inquirer: 8.2.4
-      minimatch: 9.0.1
+      minimatch: 9.0.9
       node-plop: 0.26.3
       proxy-agent: 6.3.1
       ts-node: 10.9.2(@types/node@20.8.3)(typescript@5.5.2)
@@ -10586,7 +10621,7 @@ snapshots:
       js-yaml: 4.1.0
       ora: 4.1.1
       rimraf: 3.0.2
-      semver: 7.5.4
+      semver: 7.7.4
       update-check: 1.5.4
 
   '@types/argparse@1.0.38': {}
@@ -10911,7 +10946,7 @@ snapshots:
       debug: 4.3.5(supports-color@9.2.2)
       globby: 11.1.0
       is-glob: 4.0.3
-      semver: 7.5.4
+      semver: 7.7.4
       ts-api-utils: 1.0.3(typescript@5.5.2)
     optionalDependencies:
       typescript: 5.5.2
@@ -10927,7 +10962,7 @@ snapshots:
       '@typescript-eslint/types': 6.10.0
       '@typescript-eslint/typescript-estree': 6.10.0(typescript@5.5.2)
       eslint: 8.49.0
-      semver: 7.5.4
+      semver: 7.7.4
     transitivePeerDependencies:
       - supports-color
       - typescript
@@ -10941,7 +10976,7 @@ snapshots:
       '@typescript-eslint/types': 6.10.0
       '@typescript-eslint/typescript-estree': 6.10.0(typescript@5.5.2)
       eslint: 8.57.0
-      semver: 7.5.4
+      semver: 7.7.4
     transitivePeerDependencies:
       - supports-color
       - typescript
@@ -11468,7 +11503,16 @@ snapshots:
       balanced-match: 1.0.2
       concat-map: 0.0.1
 
+  brace-expansion@1.1.12:
+    dependencies:
+      balanced-match: 1.0.2
+      concat-map: 0.0.1
+
   brace-expansion@2.0.1:
+    dependencies:
+      balanced-match: 1.0.2
+
+  brace-expansion@2.0.2:
     dependencies:
       balanced-match: 1.0.2
 
@@ -11518,7 +11562,7 @@ snapshots:
 
   builtins@5.0.1:
     dependencies:
-      semver: 7.5.4
+      semver: 7.7.4
 
   bundle-name@3.0.0:
     dependencies:
@@ -11821,7 +11865,7 @@ snapshots:
       js-string-escape: 1.0.1
       lodash: 4.17.21
       md5-hex: 3.0.1
-      semver: 7.5.4
+      semver: 7.7.4
       well-known-symbols: 2.0.0
 
   concurrently@8.2.2:
@@ -11901,7 +11945,7 @@ snapshots:
     dependencies:
       nice-try: 1.0.5
       path-key: 2.0.1
-      semver: 5.7.1
+      semver: 5.7.2
       shebang-command: 1.2.0
       which: 1.3.1
 
@@ -12085,7 +12129,7 @@ snapshots:
 
   detect-newline@3.1.0: {}
 
-  devalue@4.3.2: {}
+  devalue@5.6.4: {}
 
   devtools-protocol@0.0.1182435: {}
 
@@ -12373,10 +12417,11 @@ snapshots:
     dependencies:
       eslint: 8.57.0
 
-  eslint-config-turbo@2.0.6(eslint@8.49.0):
+  eslint-config-turbo@2.8.17(eslint@8.49.0)(turbo@1.10.14):
     dependencies:
       eslint: 8.49.0
-      eslint-plugin-turbo: 2.0.6(eslint@8.49.0)
+      eslint-plugin-turbo: 2.8.17(eslint@8.49.0)(turbo@1.10.14)
+      turbo: 1.10.14
 
   eslint-import-resolver-node@0.3.7:
     dependencies:
@@ -12501,10 +12546,11 @@ snapshots:
       semver: 6.3.1
       string.prototype.matchall: 4.0.8
 
-  eslint-plugin-turbo@2.0.6(eslint@8.49.0):
+  eslint-plugin-turbo@2.8.17(eslint@8.49.0)(turbo@1.10.14):
     dependencies:
       dotenv: 16.0.3
       eslint: 8.49.0
+      turbo: 1.10.14
 
   eslint-plugin-unused-imports@3.0.0(@typescript-eslint/eslint-plugin@6.10.0(@typescript-eslint/parser@6.10.0(eslint@8.49.0)(typescript@5.5.2))(eslint@8.49.0)(typescript@5.5.2))(eslint@8.49.0):
     dependencies:
@@ -13082,7 +13128,7 @@ snapshots:
       fs.realpath: 1.0.0
       inflight: 1.0.6
       inherits: 2.0.4
-      minimatch: 3.1.2
+      minimatch: 3.1.5
       once: 1.4.0
       path-is-absolute: 1.0.1
 
@@ -13091,7 +13137,7 @@ snapshots:
       fs.realpath: 1.0.0
       inflight: 1.0.6
       inherits: 2.0.4
-      minimatch: 5.1.1
+      minimatch: 5.1.9
       once: 1.4.0
 
   globals@11.12.0: {}
@@ -13233,7 +13279,7 @@ snapshots:
 
   hex2dec@1.1.2: {}
 
-  hono@3.12.11: {}
+  hono@4.12.7: {}
 
   hosted-git-info@2.8.9: {}
 
@@ -13871,7 +13917,7 @@ snapshots:
 
   lowercase-keys@3.0.0: {}
 
-  lru-cache@10.1.0: {}
+  lru-cache@10.4.3: {}
 
   lru-cache@4.1.5:
     dependencies:
@@ -13993,7 +14039,7 @@ snapshots:
       exit-hook: 2.2.1
       glob-to-regexp: 0.4.1
       stoppable: 1.1.0
-      undici: 5.28.4
+      undici: 5.29.0
       workerd: 1.20240419.0
       ws: 8.17.1
       youch: 3.2.3
@@ -14011,17 +14057,21 @@ snapshots:
     dependencies:
       brace-expansion: 1.1.11
 
-  minimatch@5.1.0:
+  minimatch@3.1.5:
     dependencies:
-      brace-expansion: 2.0.1
+      brace-expansion: 1.1.12
 
-  minimatch@5.1.1:
+  minimatch@5.1.9:
     dependencies:
-      brace-expansion: 2.0.1
+      brace-expansion: 2.0.2
 
   minimatch@9.0.1:
     dependencies:
       brace-expansion: 2.0.1
+
+  minimatch@9.0.9:
+    dependencies:
+      brace-expansion: 2.0.2
 
   minimist-options@4.1.0:
     dependencies:
@@ -14139,7 +14189,7 @@ snapshots:
 
   node-abi@3.62.0:
     dependencies:
-      semver: 7.5.4
+      semver: 7.7.4
     optional: true
 
   node-fetch-native@1.6.4: {}
@@ -14190,7 +14240,7 @@ snapshots:
     dependencies:
       hosted-git-info: 2.8.9
       resolve: 1.22.8
-      semver: 5.7.1
+      semver: 5.7.2
       validate-npm-package-license: 3.0.4
 
   normalize-path@3.0.0: {}
@@ -14216,7 +14266,7 @@ snapshots:
     dependencies:
       execa: 6.1.0
       parse-package-name: 1.0.0
-      semver: 7.5.4
+      semver: 7.7.4
       validate-npm-package-name: 4.0.0
 
   object-assign@4.1.1: {}
@@ -14441,7 +14491,7 @@ snapshots:
       got: 12.6.1
       registry-auth-token: 5.0.2
       registry-url: 6.0.1
-      semver: 7.5.4
+      semver: 7.7.4
 
   packet-reader@1.0.0: {}
 
@@ -14496,7 +14546,7 @@ snapshots:
       minimist: 1.2.6
       open: 7.4.2
       rimraf: 2.7.1
-      semver: 5.7.1
+      semver: 5.7.2
       slash: 2.0.0
       tmp: 0.0.33
       yaml: 1.10.2
@@ -14521,7 +14571,7 @@ snapshots:
 
   path-scurry@1.10.1:
     dependencies:
-      lru-cache: 10.1.0
+      lru-cache: 10.4.3
       minipass: 6.0.2
 
   path-to-regexp@0.1.7: {}
@@ -14947,7 +14997,7 @@ snapshots:
 
   readdir-glob@1.1.3:
     dependencies:
-      minimatch: 5.1.1
+      minimatch: 5.1.9
 
   readdirp@3.6.0:
     dependencies:
@@ -15189,17 +15239,15 @@ snapshots:
 
   semver-compare@1.0.0: {}
 
-  semver@5.7.1: {}
+  semver@5.7.2: {}
 
   semver@6.3.1: {}
-
-  semver@7.5.1:
-    dependencies:
-      lru-cache: 6.0.0
 
   semver@7.5.4:
     dependencies:
       lru-cache: 6.0.0
+
+  semver@7.7.4: {}
 
   send@0.18.0(supports-color@9.2.2):
     dependencies:
@@ -15875,9 +15923,11 @@ snapshots:
     dependencies:
       '@fastify/busboy': 2.1.1
 
-  undici@5.28.4:
+  undici@5.29.0:
     dependencies:
       '@fastify/busboy': 2.1.1
+
+  undici@6.24.0: {}
 
   unenv-nightly@1.10.0-1717606461.a117952:
     dependencies:
